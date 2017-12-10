@@ -7,13 +7,20 @@ Text
 color #4a4a4a
 fontFamily Montserrat
 fontSize 26
-fontWeight 400
+fontWeight 600
 text Join us on Slack
+Text
+color #4a4a4a
+fontFamily Montserrat
+fontSize 14
+fontWeight 400
+text Request your invite by email
+marginTop 4
 InputEmail
 marginTop 60
 
 Horizontal
-marginTop 60
+marginTop 65
 Text
 color #4a4a4a
 fontFamily Montserrat

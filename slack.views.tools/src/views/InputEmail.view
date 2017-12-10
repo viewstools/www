@@ -2,12 +2,6 @@ InputEmail Vertical
 marginTop props.marginTop
 marginBottom props.marginBottom
 alignItems center
-Text
-color #4a4a4a
-fontFamily Montserrat
-fontSize 14
-fontWeight 400
-text Request your invite by email
 Email CaptureEmail
 textAlign center
 backgroundColor white
