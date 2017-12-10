@@ -1,7 +1,7 @@
 {
-	"App": {
-		"width": 1280,
-		"height": 800,
+	"Ohoh": {
+		"width": 320,
+		"height": 568,
 		"isLight": false,
 		"direction": "row"
 	}

@@ -1,0 +1,10 @@
+Ohoh Vertical
+alignItems center
+flex 1
+justifyContent center
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...

@@ -15,8 +15,3 @@ fontFamily Montserrat
 color #4A4A4A
 width 320
 autoFocus true
-autoCapitalize none
-keyboardType email-address
-Alert
-when props.hasAlerts
-text props.alertText

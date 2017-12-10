@@ -1,0 +1,6 @@
+{
+  "env": {
+    "APP": "@views-tools-slack-app",
+    "TOKEN": "@views-tools-slack-token"
+  }
+}
