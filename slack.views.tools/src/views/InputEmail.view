@@ -1,0 +1,28 @@
+InputEmail Vertical
+marginTop props.marginTop
+marginBottom props.marginBottom
+alignItems center
+Text
+color #4a4a4a
+fontFamily Montserrat
+fontSize 14
+fontWeight 400
+text Request your invite by email
+Email CaptureEmail
+textAlign center
+backgroundColor white
+marginTop 10
+borderRadius 4
+border 1px solid #e6e6e6
+height 45
+fontSize 16
+fontWeight 400
+fontFamily Montserrat
+color #4A4A4A
+width 320
+autoFocus true
+autoCapitalize none
+keyboardType email-address
+Alert
+when props.hasAlerts
+text props.alertText
