@@ -1,7 +1,0 @@
-App Vertical
-alignItems center
-flex 1
-justifyContent center
-Text
-fontSize 18
-text views.tools
